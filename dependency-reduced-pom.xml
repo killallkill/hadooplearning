@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ShengdongHadoop</groupId>
   <artifactId>Hadooplearning</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <build>
     <resources>
       <resource>
@@ -32,7 +32,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>shengdong.hadoop.MapReduce.MaxTemperature</mainClass>
+                  <mainClass>shengdong.hadoop.MapReduce.SVMlibTestDemo.SvmPredictMain</mainClass>
                 </transformer>
               </transformers>
             </configuration>
